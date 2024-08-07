@@ -1,0 +1,25 @@
+,2020-12-31,2021-12-31,2022-12-31,2023-12-31
+us-gaap_IncomeStatementAbstract,,,,
+"Revenue from Contract with Customer, Excluding Assessed Tax",28490.0,43375.0,80268.0,105703.0
+Cost of Revenue,10285.0,18720.0,40327.0,42434.0
+Gross Profit,18205.0,24655.0,39941.0,63269.0
+Research and Development Expense,20751.0,31615.0,35153.0,38923.0
+Selling and Marketing Expense,10279.0,20387.0,28502.0,25754.0
+General and Administrative Expense,12520.0,40479.0,44831.0,42494.0
+spir_LossOnSatelliteDeorbitAndLaunchFailure,666.0,0.0,549.0,747.0
+Operating Expenses,44216.0,92481.0,109035.0,107918.0
+Operating Income (Loss),-26011.0,-67826.0,-69094.0,-44649.0
+"Investment Income, Interest",54.0,23.0,948.0,2332.0
+Interest Expense,-6773.0,-11417.0,-13955.0,-19036.0
+spir_ChangeInFairValueOfContingentEarnedLiability,0.0,48248.0,9677.0,129.0
+spir_ChangeInFairValueOfWarrantLiabilities,-198.0,-1600.0,8757.0,-1597.0
+"Extinguishment of Debt, Amount",,-3255.0,-22510.0,0.0
+Other Nonoperating Income (Expense),824.0,-1766.0,-2912.0,-1063.0
+Nonoperating Income (Expense),-6093.0,30233.0,-19995.0,-19235.0
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-32104.0,-37593.0,-89089.0,-63884.0
+Income Tax Expense (Benefit),400.0,497.0,322.0,72.0
+Net Income (Loss) Attributable to Parent,-32504.0,-38090.0,-89411.0,-63956.0
+"Earnings Per Share, Basic",,-0.61,-5.11,-3.27
+"Weighted Average Number of Shares Outstanding, Basic",,62137434.0,17484927.0,19580006.0
+"Earnings Per Share, Basic and Diluted",-1.85,,,
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",17610405.0,,,

@@ -1,0 +1,8 @@
+beautifulsoup4
+lxml
+pandas
+python-dotenv
+sec-edgar-downloader 
+sec-parser
+sec-downloader
+
